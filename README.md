@@ -1,0 +1,2 @@
+# code-smells
+Code smells
